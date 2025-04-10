@@ -1,5 +1,13 @@
 <template>
     <h2>{{mod}}</h2>
+    <v-app>
+    <v-container>
+      <v-file-input
+        label="Upload your file"
+      />
+    </v-container>
+  </v-app>
+  <h2>End of template</h2>
 </template>
 
 <script>

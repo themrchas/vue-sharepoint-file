@@ -2,11 +2,11 @@ import { defineCustomElement } from 'vue'
 
 import { createVuetify } from 'vuetify';
 
+//import { getRandomString } from "@pnp/core";
+
 //import * as components from 'vuetify/components'
 import { VApp, VContainer, VFileInput } from 'vuetify/components'
 import * as directives from 'vuetify/directives'
-
-
 import 'vuetify/styles'
 
 import  Test  from './components/TestElement.ce.vue'

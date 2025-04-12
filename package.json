@@ -9,6 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@pnp/common": "^2.15.0",
+    "@pnp/graph": "^2.15.0",
+    "@pnp/nodejs": "^2.15.0",
+    "@pnp/odata": "^2.15.0",
+    "@pnp/sp": "^2.15.0",
     "vue": "^3.5.13",
     "vuetify": "^3.8.1"
   },

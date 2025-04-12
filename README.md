@@ -8,3 +8,7 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 https://passage.1password.com/post/developing-web-components-with-vue
 
 Coding Shorts Vue 3.2 youtube
+
+Remove @pnp/nodejs
+https://github.com/SharePoint/PnP-JS-Core/wiki/Basic--Operations
+https://sharepoint.stackexchange.com/questions/312737/how-do-you-initialize-pnpjs-when-its-running-in-the-context-of-a-sharepoint-sit
